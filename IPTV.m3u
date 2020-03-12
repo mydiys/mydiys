@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="海外台",凤凰卫视中文台
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="海外台",凤凰卫视资讯台
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+#EXTINF:-1 tvg-id="427" tvg-name="国家地理野生频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeowild.png" group-title="海外台",国家地理野生
+http://cloud-play.hhalloy.com/live/a4540237835700ece1fc1e54ce826125.flv
+#EXTINF:-1 tvg-id="" tvg-name="TVS4" tvg-logo="http://static2.tvzhe.com/channel/logo/NANFANG4.jpg?1" group-title="本地台",广东影视
+http://nclive.grtn.cn/tvs4/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0605/20140605112044472.jpg" group-title="本地台",广东新闻
+http://nclive.grtn.cn/xwpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVS5" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhujiang.png" group-title="本地台",广东少儿
+http://nclive.grtn.cn/tvs5/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/GDTV4.jpg" group-title="本地台",广东公共
+http://nclive.grtn.cn/ggpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="7125" tvg-name="广东珠江" tvg-logo="http://static2.tvzhe.com/channel/logo/GDTV2.jpg" group-title="本地台",广东珠江
+http://nclive.grtn.cn/zjpd/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SRTTV1/SRTTV1_140x140.png" group-title="本地台",汕头一套（标清）
+http://dslive.grtn.cn/stzh/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="汕头新闻综合" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SRTTV1/SRTTV1_140x140.png" group-title="本地台",汕头一套综合频道
+http://183.238.66.1:9090/live/shantouyitaogaoqing_4500.m3u8?t=qjyyL72uz1ALhLpYg3H%2FIQ%3D%3D&u=13269185286&p=1&pid=&cid=598&l=001&d=865372026096088&sid=eyTujVqtaGAN7EX1faVq1A%3D%3D&r=20200312173039&e=20200317173044&nc=aVNK60rOMGP9&a=7&v=2&isSuma=1&hlsSessionID=9428005928097192132&srchost=172.16.149.181:8060&gid=OIqvMAjJdNKRqs3%2BUPvYig%3D%3D
+#EXTINF:-1 tvg-id="" tvg-name="汕头经济生活" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SRTTV2/SRTTV2_140x140.png" group-title="本地台",汕头二套经济生活频道
+http://183.238.66.1:9090/live/shantouertaogaoqing_4500.m3u8?t=qjyyL72uz1ALhLpYg3H%2FIQ%3D%3D&u=13269185286&p=1&pid=&cid=600&l=001&d=865372026096088&sid=McCOTMLgsn5%2B0LiOoeSBaA%3D%3D&r=20200312171953&e=20200317171958&nc=EIxRCX4rpFbK&a=7&v=2&isSuma=1&hlsSessionID=9428005928097185374&srchost=172.16.149.181:8060&gid=K4B0FI0ULn8cNKnDoPbM1Q%3D%3D
+#EXTINF:-1 tvg-id="" tvg-name="汕头影视文艺" tvg-logo="http://pix1.tvzhe.com/images/logo/channel/SRTTV3/SRTTV3_140x140.png" group-title="本地台",汕头三套影视文艺频道
+http://183.238.66.1:9090/live/shantousantaogaoqing_4500.m3u8?t=qjyyL72uz1ALhLpYg3H%2FIQ%3D%3D&u=13269185286&p=1&pid=&cid=602&l=001&d=865372026096088&sid=3uVvhacCXGXn7MbS2oqiCQ%3D%3D&r=20200312173200&e=20200317173205&nc=BFPhrwExewvO&a=7&v=2&isSuma=1&hlsSessionID=9428005928097192884&srchost=172.16.149.181:8060&gid=CJPnzx3ZR%2FtK1YLTvfRwrA%3D%3D
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/ZJTV2.jpg?1" group-title="本地台",浙江钱江
+http://yf.m.l.cztv.com/channels/lantian/channel02/360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/ZJTV8.jpg?1" group-title="本地台",浙江少儿
+http://yf.m.l.cztv.com/channels/lantian/channel08/360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/ZJTV4.jpg?1" group-title="本地台",浙江科教
+http://yf.m.l.cztv.com/channels/lantian/channel04/360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/ZJTV5.jpg?1" group-title="本地台",浙江影视
+http://yf.m.l.cztv.com/channels/lantian/channel05/360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/ZJTV6.jpg?1" group-title="本地台",浙江民生
+http://yf.m.l.cztv.com/channels/lantian/channel06/360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/ZJTV9.jpg?1" group-title="本地台",浙江国际
+http://yf.m.l.cztv.com/channels/lantian/channel10/360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/ZJTV7.jpg?1" group-title="本地台",浙江公共新闻
+http://yf.m.l.cztv.com/channels/lantian/channel07/360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/ZJTV3.jpg?1" group-title="本地台",浙江经济生活
+http://yf.m.l.cztv.com/channels/lantian/channel03/360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/WZTV1.jpg?1" group-title="本地台",温州新闻综合
+http://api.dianshihome.com/gslb/channel/stream?region=&isp=&tm=1582508914&uuid=ba21bac64765ef2b08998408b79c1931&sign=5c05c2a6e83254825f62ea877e625940&ver=1.0.8&channel_id=wenzhouxinwenzonghe&extra=pointless
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/WZTV2.jpg?1" group-title="本地台",温州经济科教
+http://hls.dhtv.cn:8080/live/v2_12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/WZTV3.jpg?1" group-title="本地台",温州都市生活
+http://hls.dhtv.cn:8080/live/v3_13.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static2.tvzhe.com/channel/logo/WZTV4.jpg?1" group-title="本地台",温州公共频道
+http://hls.dhtv.cn:8080/live/v4_14.m3u8
